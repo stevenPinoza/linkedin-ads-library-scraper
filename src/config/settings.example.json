@@ -1,0 +1,7 @@
+{
+  "max_results": 100,
+  "output_format": "json",
+  "ad_urls": [
+    "https://www.linkedin.com/ad-library/search?accountOwner=apple&countries=US"
+  ]
+}
