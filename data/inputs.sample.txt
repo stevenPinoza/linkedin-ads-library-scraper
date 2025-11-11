@@ -1,0 +1,2 @@
+# Sample input file for LinkedIn Ad URLs
+https://www.linkedin.com/ad-library/search?accountOwner=apple&countries=US&dateOption=last-30-days
